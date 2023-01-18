@@ -1,0 +1,24 @@
+﻿1CV8LOG(ver 2.0)
+725627ea-811f-408e-ac46-a6e9f8e2d5da
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"KAB425-1",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,795ba4af-f0f2-4af3-8f87-bf4844e479cf,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",7},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,795ba4af-f0f2-4af3-8f87-bf4844e479cf,"Справочник.Предмет",1},
+{4,"_$Transaction$_.Commit",10},
+{3,"BackgroundJob",3},
+{5,74cdfe7b-779a-4fd6-8839-b32925c510e4,"",2},
+{5,74cdfe7b-779a-4fd6-8839-b32925c510e4,"Справочник.Студенты",2},
+{4,"_$Data$_.Update",11}
